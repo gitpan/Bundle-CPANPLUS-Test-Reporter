@@ -1,6 +1,6 @@
 package Bundle::CPANPLUS::Test::Reporter;
 
-$VERSION = "0.01";
+$VERSION = "0.02";
 
 1;
 
@@ -30,9 +30,7 @@ HTTP::Request
 
 Net::SMTP
 
-Mail::Send
-
-Test::Reporter 1.20
+Test::Reporter 1.21
 
 LWP
 
