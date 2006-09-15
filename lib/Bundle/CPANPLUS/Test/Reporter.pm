@@ -1,6 +1,6 @@
 package Bundle::CPANPLUS::Test::Reporter;
 
-$VERSION = "0.02";
+$VERSION = "0.05";
 
 1;
 
@@ -28,9 +28,11 @@ File::Temp
 
 HTTP::Request
 
+Net::DNS
+
 Net::SMTP
 
-Test::Reporter 1.21
+Test::Reporter 1.27
 
 LWP
 
